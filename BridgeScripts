@@ -1,0 +1,23 @@
+if game.PlaceId == 17069479061 then
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/mm2/main/mm2"), true))()
+end
+
+if game.PlaceId == 17404090437 then
+loadstring(game:HttpGet((""), true))()
+end
+
+if game.PlaceId == 17415686139 then
+loadstring(game:HttpGet((""), true))()
+end
+
+if game.PlaceId == 17438255972 then
+loadstring(game:HttpGet((""), true))()
+end
+
+if game.PlaceId == 17393675736 then
+loadstring(game:HttpGet((""), true))()
+end
+
+if game.PlaceId == 17416074811 then
+loadstring(game:HttpGet((""), true))()
+end
